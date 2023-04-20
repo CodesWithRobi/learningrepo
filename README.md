@@ -7,4 +7,4 @@ knowing that in the last commit the emoji doesn't recognised this is my second a
 ## Learning Branch:
 This is me learning branch!!
 ## This is a testing:
-I am testing weather merging with this branch which have aditional things, does this gonna be affected
+I am testing weather merging with this branch which have aditional things, does this gonna be affected.
